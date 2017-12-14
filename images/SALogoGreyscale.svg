@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54" height="37" viewBox="0 0 54 37">
+    <defs>
+        <path id="b" d="M16.54 18.26h23.72a.709.709 0 0 0 .714-.704v-6.762a.709.709 0 0 0-.715-.703H16.541c-1.941 0-3.515 1.549-3.515 3.46V14.8c0 1.912 1.574 3.46 3.515 3.46"/>
+        <filter id="a" width="114.3%" height="149%" x="-7.2%" y="-12.2%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.113202072 0 0 0 0 0.255836303 0 0 0 0 0.425382653 0 0 0 0.371659873 0"/>
+        </filter>
+        <path id="d" d="M37.46 28.35H13.74a.709.709 0 0 1-.714-.703v-6.762c0-.388.32-.703.715-.703h23.718c1.941 0 3.515 1.549 3.515 3.46v1.248c0 1.912-1.574 3.46-3.515 3.46"/>
+        <filter id="c" width="114.3%" height="149%" x="-7.2%" y="-12.2%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.113202072 0 0 0 0 0.255836303 0 0 0 0 0.425382653 0 0 0 0.371659873 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#E6E6E6" d="M39.212 4.805H14.788c-4.243 0-7.683 3.532-7.683 7.89V26.27c0 4.357 3.44 7.89 7.683 7.89h24.424c.273 0 .54-.01.801-.002h-.093c.39 0 1.44-.084 2.132.66.19.172.376.35.556.535l1.033 1.066c1.198 1.236 3.254.365 3.254-1.38V12.695c0-4.358-3.44-7.89-7.683-7.89"/>
+        <g>
+            <use fill="#000" filter="url(#a)" xlink:href="#b"/>
+            <use fill="#FFF" xlink:href="#b"/>
+        </g>
+        <g>
+            <use fill="#000" filter="url(#c)" xlink:href="#d"/>
+            <use fill="#FFF" xlink:href="#d"/>
+        </g>
+        <g fill="#E6E6E6">
+            <path d="M53.259 1.201H.74C.331 1.201 0 1.024 0 .805V.397C0 .177.332 0 .741 0H53.26c.41 0 .741.178.741.397v.408c0 .219-.332.396-.741.396"/>
+            <path d="M51.158 11.292h.476V0h-.476z"/>
+            <path d="M49.674 14.175c-.096 0-.174-.06-.174-.134v-1.86c0-.757.79-1.37 1.766-1.37h.494c.976 0 1.766.613 1.766 1.37v1.86c0 .074-.077.134-.174.134h-3.678z"/>
+        </g>
+    </g>
+</svg>
