@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>SmartAlumni - Home </title>
+    <meta name="description" content="Isma'il">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <meta name="theme-color" content="#ffffff">
+</head>
+
+<body>
+    <div class="container">
+        <div class="section" id="home">
+            <div class="menu-bar">
+                <div id="menu-opener" class="track-hover">
+                    <a href="#"> <i> <span class="one"></span> <span class="two"></span> <span class="three"></span> </i> </a>
+                </div>
+                <div class="header">
+                    <div class="logo">
+                        <a href="index.html"><img src="images/SALogoWeb.svg" height="45px" width="229px"></a>
+                    </div>
+                    <nav class="nav-menu">
+                        <ul>
+                            <li class="link"><a href="#home">Start a project</a></li>
+                            <ul class="dropdown">
+                                <li class="dropbtn">About</li>
+                                <li class="dropdown-content">
+                                    <a href="SmartAlumni-For-Schools.html">SmartAlumni web</a>
+                                    <a href="SmartAlumni-App">SmartAlumni app</a>
+                                    <a href="#">Link 3</a>
+                                </li>
+                            </ul>
+                            </li>
+                            <li class="link"><a href="#projects">Login</a></li>
+                            <li class="link"><a href="#projects">Sign Up</a></li>
+                            <li class="link"><a href="#projects">Projects</a></li>
+                            <!-- <li><a href="dara.html">Dara</a></li> -->
+                        </ul>
+                        <a class="toggle-nav" href="#">&#9776;</a>
+                    </nav>
+                </div>
+            </div>
+            <div class="main">
+                <div class="slogan_wrap">
+                    <h1 class="slogan"> Educational Project Funding Platform </h1>
+
+                    <p class="sub_text">Fund educational projects with ease, from anywhere in the world</p>
+
+
+                </div>
+                <div class="wrap">
+                    <div class="search">
+                        <input type="text" class="searchTerm" placeholder="Find a project or school">
+                        <button type="submit" class="searchButton">
+                         <!-- <i class="fa fa-search"></i> -->
+                         Submit
+                      </button>
+                    </div>
+                </div>
+
+
+            </div>
+            <!-- END OF HERO! -->
+
+            <!-- END OF ABOUT -->
+
+            <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+            <script>
+                $('.link').click(function() {
+                    $('li.active').removeClass('active');
+                    $(this).addClass('active');
+                });
+            </script>
+
+
+</body>
+
+</html>

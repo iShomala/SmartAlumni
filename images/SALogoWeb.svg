@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="37px" viewBox="0 0 240 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>SA - Logo - Web</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M16.5408579,18.2597403 L40.2593017,18.2597403 C40.6538232,18.2597403 40.9736842,17.9448104 40.9736842,17.5563712 L40.9736842,10.7942782 C40.9736842,10.4058389 40.6538232,10.0909091 40.2593017,10.0909091 L16.5408579,10.0909091 C14.5996864,10.0909091 13.0263158,11.6400234 13.0263158,13.5512684 L13.0263158,14.799381 C13.0263158,16.7106259 14.5996864,18.2597403 16.5408579,18.2597403" id="path-1"></path>
+        <filter x="-7.2%" y="-12.2%" width="114.3%" height="149.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.113202072   0 0 0 0 0.255836303   0 0 0 0 0.425382653  0 0 0 0.371659873 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M37.4591421,28.3506494 L13.7406983,28.3506494 C13.3461768,28.3506494 13.0263158,28.0357195 13.0263158,27.6472803 L13.0263158,20.8851873 C13.0263158,20.496748 13.3461768,20.1818182 13.7406983,20.1818182 L37.4591421,20.1818182 C39.4003136,20.1818182 40.9736842,21.7309325 40.9736842,23.6421775 L40.9736842,24.8902901 C40.9736842,26.801535 39.4003136,28.3506494 37.4591421,28.3506494" id="path-3"></path>
+        <filter x="-7.2%" y="-12.2%" width="114.3%" height="149.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.113202072   0 0 0 0 0.255836303   0 0 0 0 0.425382653  0 0 0 0.371659873 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Nav" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-90.000000, -14.000000)">
+        <g id="SA---Logo---Web">
+            <g transform="translate(90.000000, 14.000000)">
+                <g id="SA-Logo-">
+                    <path d="M39.2120654,4.80519481 L14.7879346,4.80519481 C10.544779,4.80519481 7.10526316,8.33725872 7.10526316,12.6945861 L7.10526316,26.2708074 C7.10526316,30.6281348 10.544779,34.1601987 14.7879346,34.1601987 L39.2120654,34.1601987 C39.4851168,34.1601987 39.7511867,34.1506397 40.013378,34.1586056 L39.9202923,34.1586056 C40.3104764,34.1586056 41.3592418,34.074964 42.0519544,34.8189757 C42.24278,34.9910383 42.4281757,35.1694737 42.6081413,35.3542817 L43.6406166,36.4201142 C44.8390948,37.6564163 46.8947368,36.7849508 46.8947368,35.0404267 L46.8947368,26.2708074 L46.8947368,19.6766655 L46.8947368,12.6945861 C46.8947368,8.33725872 43.455221,4.80519481 39.2120654,4.80519481" id="Fill-1" fill="#6BA3F1"></path>
+                    <g id="Fill-5">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="Fill-8">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    </g>
+                    <g id="Group" fill="#6BA3F1">
+                        <path d="M53.2586953,1.2012987 L0.741304724,1.2012987 C0.33171829,1.2012987 0,1.02379151 0,0.804615953 L0,0.396682748 C0,0.177507196 0.33171829,0 0.741304724,0 L53.2586953,0 C53.6682817,0 54,0.177507196 54,0.396682748 L54,0.804615953 C54,1.02379151 53.6682817,1.2012987 53.2586953,1.2012987" id="Fill-10"></path>
+                        <polygon id="Fill-13" points="51.1578947 11.2922078 51.6341333 11.2922078 51.6341333 0 51.1578947 0"></polygon>
+                        <path d="M49.673819,14.1753247 C49.5775802,14.1753247 49.5,14.1152326 49.5,14.0406879 L49.5,12.1801148 C49.5,11.4240192 50.2905327,10.8116883 51.2656868,10.8116883 L51.759647,10.8116883 C52.7357831,10.8116883 53.5263158,11.4240192 53.5263158,12.1801148 L53.5263158,14.0406879 C53.5263158,14.1152326 53.4487356,14.1753247 53.3524968,14.1753247 L49.673819,14.1753247 Z" id="Fill-15"></path>
+                    </g>
+                </g>
+                <text id="SmartAlumni" font-family="SFUIText-Regular, SF UI Text" font-size="26" font-weight="normal" line-spacing="20" fill="#060606">
+                    <tspan x="84" y="34">SmartAlumni</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
